@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/mvader/node-cordova",
   "dependencies": {
-    "cordova": "4.3.*"
+    "cordova": ">6.0.0"
   }
 }

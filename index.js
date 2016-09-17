@@ -6,7 +6,7 @@ var exec = require('child_process').exec,
 
 var CORDOVA_PATH = path.join(
     __dirname,
-    'node_modules',
+    '..',
     'cordova',
     'bin',
     'cordova'
